@@ -1,0 +1,76 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b9a715f7-3994-4cae-b457-0dfe86574e20",
+  "files": [],
+  "subMetas": {
+    "97298": {
+      "importer": "gltf-mesh",
+      "uuid": "b9a715f7-3994-4cae-b457-0dfe86574e20@97298",
+      "displayName": "",
+      "id": "97298",
+      "name": "ball.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8a942": {
+      "importer": "gltf-material",
+      "uuid": "b9a715f7-3994-4cae-b457-0dfe86574e20@8a942",
+      "displayName": "",
+      "id": "8a942",
+      "name": "ball.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8c1b3": {
+      "importer": "gltf-scene",
+      "uuid": "b9a715f7-3994-4cae-b457-0dfe86574e20@8c1b3",
+      "displayName": "",
+      "id": "8c1b3",
+      "name": "ball.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "b9a715f7-3994-4cae-b457-0dfe86574e20@8c1b3",
+    "assetFinder": {
+      "meshes": [
+        "b9a715f7-3994-4cae-b457-0dfe86574e20@97298"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "b9a715f7-3994-4cae-b457-0dfe86574e20@8a942"
+      ],
+      "scenes": [
+        "b9a715f7-3994-4cae-b457-0dfe86574e20@8c1b3"
+      ]
+    }
+  }
+}
